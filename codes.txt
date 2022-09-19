@@ -8,7 +8,7 @@
 <body>
 
 <h1>Welcome!</h1>
-<p>This is my website. I hope this suits to your test here!</p>
+<p>This is my website. we hope this suits to your test here!</p>
 <p><b>Here is some bold text for emphasis.</b></p>
 <p><i>Italics can be creepy.</i></p>
 
